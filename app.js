@@ -1,5 +1,7 @@
-console.log("I am minion")
-let username =prompt("Give me username")
+var btnTranslate = document.querySelector("#btn-translate")
+var txtInput = document.querySelector("#txt-input")
 
-let message = "You are a minion " + username
-alert(message)
+
+btnTranslate.addEventListener("click", () => {
+    console.log(txtInput.value)
+})
