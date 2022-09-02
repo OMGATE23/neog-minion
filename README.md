@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # This is a Minion translate
 
 Enter the text which you want to translate and press the translate button for the translation
